@@ -3,5 +3,7 @@ function sum(a,b){
 }
 
 function multiply(a,b){
-    
+    return a*b
 }
+
+exports.sum =sum
